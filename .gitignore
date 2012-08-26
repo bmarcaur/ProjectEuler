@@ -1,0 +1,14 @@
+# Java Specific
+*.class
+bin/
+
+# Eclipse specific ignores
+.classpath
+.project
+
+# Generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
